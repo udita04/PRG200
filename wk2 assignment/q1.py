@@ -12,3 +12,4 @@ final_amount = npr_amount - service_fee
 print(f"Converted Amount: NPR {npr_amount}")
 print(f"Service Fee: NPR {service_fee}")
 print(f"Final Amount Received: NPR {final_amount}")
+

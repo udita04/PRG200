@@ -1,5 +1,5 @@
-# take this string value and only print out Nirwan Maharjan from it
+# take this string value and only print out udita pudasaini from it
 
-the_string = "Whats up guys i am Nirwan Maharjan hahhd fhsdfhd"
+the_string = "Hi I am Udita"
 
 print(the_string[19:34])
